@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "id": "1900000000000000000",
+      "author_id": "100",
+      "created_at": "2026-10-21T00:00:00.000Z",
+      "text": "朝の30分でできる家計の見直し、5つだけ書きます↓",
+      "public_metrics": {
+        "impression_count": 22022,
+        "like_count": 373,
+        "retweet_count": 31,
+        "reply_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 227
+      },
+      "attachments": {
+        "media_keys": [
+          "3_0"
+        ]
+      }
+    },
+    {
+      "id": "1900000000000000001",
+      "author_id": "101",
+      "created_at": "2026-10-22T01:00:00.000Z",
+      "text": "なぜ毎日続けても成果が出ないのか？\n答えは「記録していないから」です。",
+      "public_metrics": {
+        "impression_count": 54623,
+        "like_count": 505,
+        "retweet_count": 137,
+        "reply_count": 11,
+        "quote_count": 4,
+        "bookmark_count": 613
+      }
+    },
+    {
+      "id": "1900000000000000002",
+      "author_id": "102",
+      "created_at": "2026-10-23T02:00:00.000Z",
+      "text": "AIに議事録を任せてみた結果、会議後の作業が1日40分減りました。\nやり方を全部まとめます↓",
+      "public_metrics": {
+        "impression_count": 34055,
+        "like_count": 508,
+        "retweet_count": 100,
+        "reply_count": 2,
+        "quote_count": 3,
+        "bookmark_count": 124
+      }
+    },
+    {
+      "id": "1900000000000000003",
+      "author_id": "103",
+      "created_at": "2026-10-24T03:00:00.000Z",
+      "text": "副業の最初の1円は、作業量ではなく「売る場所」で決まる。これが結論です。",
+      "public_metrics": {
+        "impression_count": 5378,
+        "like_count": 76,
+        "retweet_count": 13,
+        "reply_count": 17,
+        "quote_count": 3,
+        "bookmark_count": 59
+      },
+      "attachments": {
+        "media_keys": [
+          "3_3"
+        ]
+      }
+    },
+    {
+      "id": "1900000000000000004",
+      "author_id": "100",
+      "created_at": "2026-10-25T04:00:00.000Z",
+      "text": "初心者がやりがちなミス\n・毎日違うテーマで投稿\n・1行目が長い\n・最後に何も頼まない\n・数字を見ない\n全部やめると伸びます",
+      "public_metrics": {
+        "impression_count": 54988,
+        "like_count": 490,
+        "retweet_count": 129,
+        "reply_count": 30,
+        "quote_count": 1,
+        "bookmark_count": 143
+      }
+    },
+    {
+      "id": "1900000000000000005",
+      "author_id": "101",
+      "created_at": "2026-10-26T05:00:00.000Z",
+      "text": "今日は天気がいいので散歩してきました。",
+      "public_metrics": {
+        "impression_count": 41919,
+        "like_count": 367,
+        "retweet_count": 115,
+        "reply_count": 18,
+        "quote_count": 4,
+        "bookmark_count": 159
+      }
+    },
+    {
+      "id": "1900000000000000006",
+      "author_id": "102",
+      "created_at": "2026-10-27T06:00:00.000Z",
+      "text": "3か月で読者が10倍になったメルマガの書き方を、手順だけ7つに分けました↓",
+      "public_metrics": {
+        "impression_count": 4049,
+        "like_count": 59,
+        "retweet_count": 11,
+        "reply_count": 17,
+        "quote_count": 1,
+        "bookmark_count": 19
+      },
+      "attachments": {
+        "media_keys": [
+          "3_6"
+        ]
+      }
+    },
+    {
+      "id": "1900000000000000007",
+      "author_id": "103",
+      "created_at": "2026-10-21T07:00:00.000Z",
+      "text": "ノートアプリを3つ試して、結局1つに絞った理由を書きます",
+      "public_metrics": {
+        "impression_count": 28268,
+        "like_count": 487,
+        "retweet_count": 33,
+        "reply_count": 3,
+        "quote_count": 4,
+        "bookmark_count": 130
+      }
+    },
+    {
+      "id": "1900000000000000008",
+      "author_id": "100",
+      "created_at": "2026-10-22T08:00:00.000Z",
+      "text": "知ってる人だけ得をする、無料で使える画像作成サービス4選↓",
+      "public_metrics": {
+        "impression_count": 37517,
+        "like_count": 595,
+        "retweet_count": 92,
+        "reply_count": 18,
+        "quote_count": 4,
+        "bookmark_count": 96
+      }
+    },
+    {
+      "id": "1900000000000000009",
+      "author_id": "101",
+      "created_at": "2026-10-23T00:00:00.000Z",
+      "text": "週5で作業するより、週2で「振り返り」だけする人のほうが伸びる。9割の人が逆をやっています。",
+      "public_metrics": {
+        "impression_count": 13112,
+        "like_count": 150,
+        "retweet_count": 32,
+        "reply_count": 17,
+        "quote_count": 5,
+        "bookmark_count": 142
+      },
+      "attachments": {
+        "media_keys": [
+          "3_9"
+        ]
+      }
+    },
+    {
+      "id": "1900000000000000010",
+      "author_id": "102",
+      "created_at": "2026-10-24T01:00:00.000Z",
+      "text": "朝活を1か月やってみた。正直な感想です。",
+      "public_metrics": {
+        "impression_count": 37786,
+        "like_count": 803,
+        "retweet_count": 74,
+        "reply_count": 15,
+        "quote_count": 5,
+        "bookmark_count": 113
+      }
+    },
+    {
+      "id": "1900000000000000011",
+      "author_id": "103",
+      "created_at": "2026-10-25T02:00:00.000Z",
+      "text": "時間がない人ほど、最初にテンプレートを作るべき。",
+      "public_metrics": {
+        "impression_count": 28822,
+        "like_count": 360,
+        "retweet_count": 37,
+        "reply_count": 18,
+        "quote_count": 3,
+        "bookmark_count": 117
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "100",
+        "username": "example_user1",
+        "name": "見本アカウント1"
+      },
+      {
+        "id": "101",
+        "username": "example_user2",
+        "name": "見本アカウント2"
+      },
+      {
+        "id": "102",
+        "username": "example_user3",
+        "name": "見本アカウント3"
+      },
+      {
+        "id": "103",
+        "username": "example_user4",
+        "name": "見本アカウント4"
+      }
+    ]
+  },
+  "meta": {
+    "result_count": 12,
+    "note": "架空の見本データです"
+  }
+}

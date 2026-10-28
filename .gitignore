@@ -1,0 +1,11 @@
+.env
+data/*
+!data/.gitkeep
+drafts/*
+!drafts/.gitkeep
+queue/*
+!queue/.gitkeep
+config/account.md
+__pycache__/
+*.pyc
+.DS_Store

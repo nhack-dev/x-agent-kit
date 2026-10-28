@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id": "1910000000000000000",
+      "created_at": "2026-10-18T11:00:00.000Z",
+      "text": "朝の30分でできる家計の見直し、5つだけ書きます↓",
+      "public_metrics": {
+        "impression_count": 10322,
+        "like_count": 229,
+        "retweet_count": 20,
+        "reply_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 40
+      },
+      "non_public_metrics": {
+        "user_profile_clicks": 120,
+        "url_link_clicks": 0
+      },
+      "kit": {
+        "type": "tree",
+        "hook": "数字",
+        "theme": "家計"
+      }
+    },
+    {
+      "id": "1910000000000000001",
+      "created_at": "2026-10-19T11:00:00.000Z",
+      "text": "なぜ毎日続けても成果が出ないのか？\n答えは「記録していないから」です。",
+      "public_metrics": {
+        "impression_count": 8498,
+        "like_count": 242,
+        "retweet_count": 16,
+        "reply_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 43
+      },
+      "non_public_metrics": {
+        "user_profile_clicks": 73,
+        "url_link_clicks": 0
+      },
+      "kit": {
+        "type": "single",
+        "hook": "問いかけ",
+        "theme": "習慣"
+      }
+    },
+    {
+      "id": "1910000000000000002",
+      "created_at": "2026-10-20T11:00:00.000Z",
+      "text": "AIに議事録を任せてみた結果、会議後の作業が1日40分減りました。\nやり方を全部まとめます↓",
+      "public_metrics": {
+        "impression_count": 17709,
+        "like_count": 290,
+        "retweet_count": 35,
+        "reply_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 64
+      },
+      "non_public_metrics": {
+        "user_profile_clicks": 139,
+        "url_link_clicks": 0
+      },
+      "kit": {
+        "type": "tree",
+        "hook": "数字",
+        "theme": "AI活用"
+      }
+    },
+    {
+      "id": "1910000000000000003",
+      "created_at": "2026-10-21T11:00:00.000Z",
+      "text": "副業の最初の1円は、作業量ではなく「売る場所」で決まる。これが結論です。",
+      "public_metrics": {
+        "impression_count": 15207,
+        "like_count": 316,
+        "retweet_count": 30,
+        "reply_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 74
+      },
+      "non_public_metrics": {
+        "user_profile_clicks": 262,
+        "url_link_clicks": 0
+      },
+      "kit": {
+        "type": "single",
+        "hook": "数字",
+        "theme": "副業"
+      }
+    },
+    {
+      "id": "1910000000000000004",
+      "created_at": "2026-10-22T11:00:00.000Z",
+      "text": "初心者がやりがちなミス\n・毎日違うテーマで投稿\n・1行目が長い\n・最後に何も頼まない\n・数字を見ない\n全部やめると伸びます",
+      "public_metrics": {
+        "impression_count": 4368,
+        "like_count": 70,
+        "retweet_count": 8,
+        "reply_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 27
+      },
+      "non_public_metrics": {
+        "user_profile_clicks": 53,
+        "url_link_clicks": 0
+      },
+      "kit": {
+        "type": "single",
+        "hook": "一覧",
+        "theme": "発信"
+      }
+    },
+    {
+      "id": "1910000000000000005",
+      "created_at": "2026-10-23T11:00:00.000Z",
+      "text": "今日は天気がいいので散歩してきました。",
+      "public_metrics": {
+        "impression_count": 11708,
+        "like_count": 300,
+        "retweet_count": 23,
+        "reply_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 40
+      },
+      "non_public_metrics": {
+        "user_profile_clicks": 70,
+        "url_link_clicks": 0
+      },
+      "kit": {
+        "type": "single",
+        "hook": "その他",
+        "theme": "習慣"
+      }
+    }
+  ],
+  "meta": {
+    "note": "架空の見本データです"
+  }
+}
